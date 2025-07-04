@@ -7,7 +7,7 @@ $db_name = 'minec761_comprejogos';
 $db_user = 'minec761_comprejogos';
 $db_pass = 'pr9n0xz5zxk2';
 // CAMINHO ABSOLUTO para a pasta que contém as pastas dos jogos
-$base_file_path = '/home2/minec761/public_html/comprejogos/game_files/';
+$base_file_path = '/home2/minec761/comprejogos.com/game_files/';
 
 // --- VALIDAÇÃO DE ENTRADA ---
 $session_token = $_POST['session_token'] ?? '';
